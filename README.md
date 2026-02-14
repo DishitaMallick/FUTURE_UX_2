@@ -1,5 +1,9 @@
 # FUTURE_UX_2
 
+UI/UX Task 2 Submission
+
+Cafe o'Holic UI App Design (Figma)
+
 TARGET USERS
 The app is designed primarily for students, young professionals and busy individuals who prefer quick and convenient café ordering. These users value speed, clarity and a visually appealing interface that makes browsing and ordering effortless. The warm aesthetic also targets users who enjoy a cozy café experience in a digital format.
 
